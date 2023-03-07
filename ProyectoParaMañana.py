@@ -183,6 +183,6 @@ def actualizar_puntuaciones(ganador):
     if fin_juego: #Terminamos el juego
                     pygame.time.wait(3000)
 
-
+#hola
 
 
